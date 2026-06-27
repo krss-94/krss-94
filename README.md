@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22D3EE" /></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE" /></a>
-<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&logo=github&logoColor=0D1117" /></a>
 
 </div>
 
@@ -38,7 +38,7 @@ Electronics & Communication Engineering student at Sathyabama Institute of Scien
 
 Multirate phase vocoder pitch-shifting algorithm reducing transient pre-echo artifacts vs. standard phase vocoder baselines. MATLAB → C, ported to TMS320C6748.
 
-<img src="https://img.shields.io/badge/IEEE-Under%20Review-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/IEEE-Under%20Review-22D3EE?style=flat-square&labelColor=161B22"/>
 
 [`→ repo`](https://github.com/krss-94/PAIRS-Phase-Artifact-Reduction-Using-Interpolation-And-Resampling)
 
@@ -51,7 +51,7 @@ Multirate phase vocoder pitch-shifting algorithm reducing transient pre-echo art
 
 5-stage TKEO-based acoustic detection pipeline on ESP32 with adaptive thresholding and LoRa multi-node communication. Optimized to ₹252/tree.
 
-<img src="https://img.shields.io/badge/IEEE-In%20Progress-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/IEEE-In%20Progress-22D3EE?style=flat-square&labelColor=161B22"/>
 
 [`→ repo`](https://github.com/krss-94/Red-Palm-Weevil-Detection-Using-Acoustic-Sensing)
 
@@ -138,11 +138,11 @@ AI-powered waste classification combining ESP32-CAM image classification, sensor
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/ESP--NOW-0D1117?style=flat-square&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/LoRa-0D1117?style=flat-square&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/TMS320C6748-0D1117?style=flat-square&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/MATLAB-22D3EE?style=flat-square&logo=mathworks&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/ESP32-22D3EE?style=flat-square&logo=espressif&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/ESP--NOW-22D3EE?style=flat-square&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LoRa-22D3EE?style=flat-square&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/TMS320C6748-22D3EE?style=flat-square&logoColor=0D1117"/>
 
 </div>
 
@@ -174,11 +174,17 @@ AI-powered waste classification combining ESP32-CAM image classification, sensor
 ## `07` — CONTRIBUTION_GRAPH
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krss-94/krss-94/output/snake.svg" alt="contribution snake" />
+<sub>Animated contribution graph renders here once the one-time setup below is run.</sub>
 </div>
 
 <details>
 <summary><code>setup: enable the animated contribution graph</code></summary>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/krss-94/krss-94/output/snake.svg" alt="contribution snake" />
+</div>
 
 <br/>
 
