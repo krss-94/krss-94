@@ -4,7 +4,7 @@
 <!--                    HERO BANNER                            -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1f6feb&height=210&section=header&text=Siva&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ECE%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20TinyML%20%E2%80%A2%20DSP&descAlignY=62&descAlign=50&descSize=17&descFontColor=7d8590"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1f6feb&height=210&section=header&text=Siva Srinivas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ECE%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20TinyML%20%E2%80%A2%20DSP&descAlignY=62&descAlign=50&descSize=17&descFontColor=7d8590"/>
 
 <br/>
 
@@ -15,11 +15,11 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=krss-94&style=for-the-badge&color=0891b2&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="(https://www.linkedin.com/in/siva-srinivas-8ab29a324/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sivasrinivasccvv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
@@ -45,7 +45,7 @@ I'm an **Electronics & Communication Engineering** undergraduate who enjoys buil
 - 📡 IoT — ESP32, sensors, MQTT
 - 🎛️ Digital Signal Processing — filters & signal analysis in MATLAB
 - 🧠 Computer Architecture — how processors actually work
-- 🐧 Linux — using it daily, gradually learning its internals
+
 
 <br clear="right"/>
 
@@ -182,7 +182,7 @@ Working on something new. Likely ESP32 + RTOS or an FPGA experiment. Watch this 
 ## 🧭 Learning Journey
 
 ```
-2023 ──────────────────────────────────────────────── 2026+
+2024 ──────────────────────────────────────────────── 2026+
 
   ✔  Embedded C & Microcontroller Fundamentals
   ✔  ESP32 & Arduino Ecosystem
@@ -212,9 +212,9 @@ Working on something new. Likely ESP32 + RTOS or an FPGA experiment. Watch this 
 | # | Certification | Platform | Status |
 |---|--------------|----------|--------|
 | 1 | MATLAB Onramp | MathWorks | ✅ Completed |
-| 2 | *YOUR NPTEL COURSE NAME* | NPTEL | ✅ / 🔄 |
-| 3 | *YOUR CISCO COURSE NAME* | Cisco NetAcad | ✅ / 🔄 |
-| 4 | *Add more as you earn them* | — | — |
+| 2 | Biomedical Signal Processing | NPTEL | ✅ Completed|
+| 3 | Introduction To Industry and Internet of Things   | NPTEL | ✅ Completed |
+
 
 </details>
 
@@ -264,7 +264,7 @@ Working on something new. Likely ESP32 + RTOS or an FPGA experiment. Watch this 
     </a>
   </td>
   <td align="center">
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/siva-srinivas-8ab29a324/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </td>
@@ -274,7 +274,7 @@ Working on something new. Likely ESP32 + RTOS or an FPGA experiment. Watch this 
     </a>
   </td>
   <td align="center">
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:sivasrinivasccvv@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </td>
