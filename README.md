@@ -1,32 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=K.+Siva+Srinivas;Embedded+Systems+%2B+DSP+Engineer;Building+Secure+Mesh+Networks;2+IEEE+Papers+In+Flight" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=K.+Siva+Srinivas;Electronics+%26+Communication+Engineering;Embedded+Systems+%2B+DSP;2+IEEE+Papers+In+Progress" alt="Typing SVG" />
 
-<br/>
+<p>
+Second-year ECE engineer building embedded systems and signal-processing pipelines that hold up under real constraints — noisy channels, limited compute, field deployment.
+</p>
 
-<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square&logo=linkedin&logoColor=0D1117" /></a>
-<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&logo=github&logoColor=0D1117" /></a>
+<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-```
-$ whoami
-> Second-year ECE engineer. Embedded systems + DSP.
-> Currently building distributed sensor meshes and multirate audio pipelines.
-```
-
-<br/>
-
-## `01` — SYSTEM_OVERVIEW
-
-Electronics & Communication Engineering student at Sathyabama Institute of Science and Technology, working on signal processing and embedded systems that hold up under real constraints — noisy channels, limited compute, field deployment. Two IEEE papers in the pipeline. Currently shipping a secure multi-node ESP-NOW mesh cluster.
-
-<br/>
-
-## `02` — RESEARCH_LOG
+## Research
 
 <table width="100%">
 <tr>
@@ -38,9 +26,9 @@ Electronics & Communication Engineering student at Sathyabama Institute of Scien
 
 Multirate phase vocoder pitch-shifting algorithm reducing transient pre-echo artifacts vs. standard phase vocoder baselines. MATLAB → C, ported to TMS320C6748.
 
-<img src="https://img.shields.io/badge/IEEE-Under%20Review-22D3EE?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/IEEE-Under%20Review-6366F1?style=flat-square&labelColor=24292f"/>
 
-[`→ repo`](https://github.com/krss-94/PAIRS-Phase-Artifact-Reduction-Using-Interpolation-And-Resampling)
+[View repository →](https://github.com/krss-94/PAIRS-Phase-Artifact-Reduction-Using-Interpolation-And-Resampling)
 
 </td>
 <td width="50%" valign="top">
@@ -51,9 +39,9 @@ Multirate phase vocoder pitch-shifting algorithm reducing transient pre-echo art
 
 5-stage TKEO-based acoustic detection pipeline on ESP32 with adaptive thresholding and LoRa multi-node communication. Optimized to ₹252/tree.
 
-<img src="https://img.shields.io/badge/IEEE-In%20Progress-22D3EE?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/IEEE-In%20Progress-6366F1?style=flat-square&labelColor=24292f"/>
 
-[`→ repo`](https://github.com/krss-94/Red-Palm-Weevil-Detection-Using-Acoustic-Sensing)
+[View repository →](https://github.com/krss-94/Red-Palm-Weevil-Detection-Using-Acoustic-Sensing)
 
 </td>
 </tr>
@@ -61,21 +49,19 @@ Multirate phase vocoder pitch-shifting algorithm reducing transient pre-echo art
 
 <br/>
 
-## `03` — ACTIVE_DEPLOYMENT
+## Currently building
 
-```
-STATUS    : ACTIVE
-PROJECT   : AQ_Mesh — Secure Distributed Air Quality Monitoring Cluster
-STACK     : ESP32 · ESP8266 · ESP-NOW · C++
-```
+**AQ_Mesh — Secure Distributed Air Quality Monitoring Cluster**
 
-Multi-node mesh network with distinct sensor, relay, and coordinator firmware roles. Packet validation and multi-hop relay forwarding maintain data integrity across the cluster without a central access point.
+Multi-node ESP-NOW mesh network with distinct sensor, relay, and coordinator firmware roles. Packet validation and multi-hop relay forwarding maintain data integrity across the cluster without a central access point.
 
-[`→ repo`](https://github.com/krss-94/AQ_Mesh)
+`ESP32` `ESP8266` `ESP-NOW` `C++`
+
+[View repository →](https://github.com/krss-94/AQ_Mesh)
 
 <br/>
 
-## `04` — PROJECT_REGISTRY
+## Selected projects
 
 <table width="100%">
 <tr>
@@ -85,9 +71,9 @@ Multi-node mesh network with distinct sensor, relay, and coordinator firmware ro
 
 Zero-trust HMAC-SHA256 authentication framework for ESP32 industrial IoT mesh networks. Challenge-response protocol, replay prevention, per-packet integrity, attack simulation tooling.
 
-`Python` · `MIT License`
+`Python` · MIT License
 
-[`→ repo`](https://github.com/krss-94/ZeroTrust-IoT-Auth)
+[View repository →](https://github.com/krss-94/ZeroTrust-IoT-Auth)
 
 </td>
 <td width="50%" valign="top">
@@ -96,9 +82,9 @@ Zero-trust HMAC-SHA256 authentication framework for ESP32 industrial IoT mesh ne
 
 Hardware-in-the-loop control systems testbed using ESP32 and Arduino for real-time evaluation of On/Off, P, PI, and PID controllers across multiple plant models with fault injection.
 
-`Python` · `MIT License`
+`Python` · MIT License
 
-[`→ repo`](https://github.com/krss-94/HIL-Servo-Control-Testbed)
+[View repository →](https://github.com/krss-94/HIL-Servo-Control-Testbed)
 
 </td>
 </tr>
@@ -109,9 +95,9 @@ Hardware-in-the-loop control systems testbed using ESP32 and Arduino for real-ti
 
 ESP32-based IoT system for adaptive street lighting, energy monitoring, fault detection, and Blynk cloud dashboards.
 
-`Python` · `MIT License`
+`Python` · MIT License
 
-[`→ repo`](https://github.com/krss-94/-Automated-Street-Light-Monitoring-And-Energy-Saving-System)
+[View repository →](https://github.com/krss-94/-Automated-Street-Light-Monitoring-And-Energy-Saving-System)
 
 </td>
 <td width="50%" valign="top">
@@ -120,9 +106,9 @@ ESP32-based IoT system for adaptive street lighting, energy monitoring, fault de
 
 AI-powered waste classification combining ESP32-CAM image classification, sensor fusion, and servo-based sorting with IoT dashboard monitoring.
 
-`Python` · `MIT License`
+`Python` · MIT License
 
-[`→ repo`](https://github.com/krss-94/Smart-Waste-Segregation-And-Recycling-System)
+[View repository →](https://github.com/krss-94/Smart-Waste-Segregation-And-Recycling-System)
 
 </td>
 </tr>
@@ -130,55 +116,47 @@ AI-powered waste classification combining ESP32-CAM image classification, sensor
 
 <br/>
 
-## `05` — STACK
+## Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MATLAB-22D3EE?style=flat-square&logo=mathworks&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/ESP32-22D3EE?style=flat-square&logo=espressif&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/ESP--NOW-22D3EE?style=flat-square&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/LoRa-22D3EE?style=flat-square&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/TMS320C6748-22D3EE?style=flat-square&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/MATLAB-6366F1?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-6366F1?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP--NOW-6366F1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRa-6366F1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/TMS320C6748-6366F1?style=flat-square&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## `06` — METRICS
+## Activity
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krss-94&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&hide_border=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krss-94&show_icons=true&bg_color=ffffff&title_color=6366F1&icon_color=6366F1&text_color=24292f&border_color=6366F1&include_all_commits=true" width="100%"/>
 
 </td>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krss-94&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krss-94&layout=compact&bg_color=ffffff&title_color=6366F1&text_color=24292f&border_color=6366F1" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=krss-94&theme=tokyonight&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&hide_border=true" />
-</div>
-
-<br/>
-
-## `07` — CONTRIBUTION_GRAPH
-
-<div align="center">
-<sub>Animated contribution graph renders here once the one-time setup below is run.</sub>
+<img src="https://streak-stats.demolab.com/?user=krss-94&background=ffffff&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&border=6366F1" />
 </div>
 
 <details>
-<summary><code>setup: enable the animated contribution graph</code></summary>
+<summary><sub>Enable animated contribution graph</sub></summary>
 
 <br/>
 
@@ -188,7 +166,7 @@ AI-powered waste classification combining ESP32-CAM image classification, sensor
 
 <br/>
 
-This animation needs one GitHub Action in this repo (`krss-94/krss-94`). Create `.github/workflows/snake.yml`:
+Add this as `.github/workflows/snake.yml` in `krss-94/krss-94`, then push and let it run once:
 
 ```yaml
 name: snake
@@ -218,22 +196,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Push it, let the action run once, and the image above will populate.
-
 </details>
 
 <br/>
 
-## `08` — CONNECT
+## Get in touch
 
 <div align="center">
 
-<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/-Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/-LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
-<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/-GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
-
-<br/><br/>
-
-<sub><code>&gt; connection established_</code></sub>
+<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
