@@ -4,7 +4,7 @@
 <!--                    HERO BANNER                            -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1f6feb&height=210&section=header&text=Siva Srinivas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ECE%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20TinyML%20%E2%80%A2%20DSP&descAlignY=62&descAlign=50&descSize=17&descFontColor=7d8590"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1f6feb&height=210&section=header&text=SivaSrinivas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ECE%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20TinyML%20%E2%80%A2%20DSP&descAlignY=62&descAlign=50&descSize=17&descFontColor=7d8590"/>
 
 <br/>
 
