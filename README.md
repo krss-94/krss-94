@@ -155,6 +155,10 @@ AI-powered waste classification combining ESP32-CAM image classification, sensor
 <img src="https://streak-stats.demolab.com/?user=krss-94&background=ffffff&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&border=6366F1" />
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krss-94&theme=flat&no-bg=true&margin-w=8&column=4" />
+</div>
+
 <details>
 <summary><sub>Enable animated contribution graph</sub></summary>
 
