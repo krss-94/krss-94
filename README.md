@@ -1,215 +1,372 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=K.+Siva+Srinivas;Electronics+%26+Communication+Engineering;Embedded+Systems+%2B+DSP;2+IEEE+Papers+In+Progress" alt="Typing SVG" />
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    HERO BANNER                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1f6feb&height=210&section=header&text=Siva&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ECE%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20TinyML%20%E2%80%A2%20DSP&descAlignY=62&descAlign=50&descSize=17&descFontColor=7d8590"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=790&height=55&lines=Hi+%F0%9F%91%8B+I%27m+Siva+%E2%80%94+welcome+to+my+GitHub!;Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;TinyML+Developer;Digital+Signal+Processing+Explorer;IoT+Builder+%E2%80%A2+ESP32+%E2%80%A2+Raspberry+Pi;Open+Source+Contributor;Building+cool+things+at+hardware+meets+software+%F0%9F%9A%80)](https://github.com/krss-94)
+
+<br/>
 
 <p>
-Second-year ECE engineer building embedded systems and signal-processing pipelines that hold up under real constraints — noisy channels, limited compute, field deployment.
+  <img src="https://komarev.com/ghpvc/?username=krss-94&style=for-the-badge&color=0891b2&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
-
-<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
-<br/>
+---
 
-## Research
+## 🙋‍♂️ About Me
 
-<table width="100%">
+<img align="right" width="155" src="https://github.com/krss-94.png?size=155" alt="Siva"/>
+
+I'm an **Electronics & Communication Engineering** undergraduate who enjoys building things that sit right at the intersection of hardware and software.
+
+**Currently exploring:**
+
+- 🔬 Embedded Systems — bare-metal C, microcontrollers
+- 🤖 TinyML — running ML models on constrained devices
+- 📡 IoT — ESP32, sensors, MQTT
+- 🎛️ Digital Signal Processing — filters & signal analysis in MATLAB
+- 🧠 Computer Architecture — how processors actually work
+- 🐧 Linux — using it daily, gradually learning its internals
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-**PAIRS**
-<br/>
-<sub>Phase Artifact Reduction Using Interpolation and Re-Sampling</sub>
+### 🌴 Red Palm Weevil Detection
+<p>
+  <img src="https://img.shields.io/badge/TinyML-00ACC1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
 
-Multirate phase vocoder pitch-shifting algorithm reducing transient pre-echo artifacts vs. standard phase vocoder baselines. MATLAB → C, ported to TMS320C6748.
+TinyML-powered embedded system for early pest detection using vibration analysis and on-device inference.
 
-<img src="https://img.shields.io/badge/IEEE-Under%20Review-6366F1?style=flat-square&labelColor=24292f"/>
-
-[View repository →](https://github.com/krss-94/PAIRS-Phase-Artifact-Reduction-Using-Interpolation-And-Resampling)
+[`View Repo →`](YOUR_RPW_PROJECT_LINK)
 
 </td>
 <td width="50%" valign="top">
 
-**RPW Sentinel**
-<br/>
-<sub>Acoustic Red Palm Weevil Detection System</sub>
+### 🎛️ DSP Voice Compression
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSP-6A1B9A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FIR%20Filter-1565C0?style=flat-square"/>
+</p>
 
-5-stage TKEO-based acoustic detection pipeline on ESP32 with adaptive thresholding and LoRa multi-node communication. Optimized to ₹252/tree.
+Speech compression using Polyphase FIR Decimation in MATLAB with configurable filter banks and quality analysis.
 
-<img src="https://img.shields.io/badge/IEEE-In%20Progress-6366F1?style=flat-square&labelColor=24292f"/>
+[`View Repo →`](YOUR_DSP_PROJECT_LINK)
 
-[View repository →](https://github.com/krss-94/Red-Palm-Weevil-Detection-Using-Acoustic-Sensing)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♻️ Smart Waste Segregation
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensors-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Embedded-0078D7?style=flat-square"/>
+</p>
+
+Automated waste classification using capacitive, IR, and inductive sensors to segregate metal, wet, and dry waste.
+
+[`View Repo →`](YOUR_WASTE_PROJECT_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔲 Next Build
+<p>
+  <img src="https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square"/>
+</p>
+
+Working on something new. Likely ESP32 + RTOS or an FPGA experiment. Watch this space. ⏳
+
+[`Coming soon`](#)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Currently building
-
-**AQ_Mesh — Secure Distributed Air Quality Monitoring Cluster**
-
-Multi-node ESP-NOW mesh network with distinct sensor, relay, and coordinator firmware roles. Packet validation and multi-hop relay forwarding maintain data integrity across the cluster without a central access point.
-
-`ESP32` `ESP8266` `ESP-NOW` `C++`
-
-[View repository →](https://github.com/krss-94/AQ_Mesh)
-
-<br/>
-
-## Selected projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**ZeroTrust-IoT-Auth**
-
-Zero-trust HMAC-SHA256 authentication framework for ESP32 industrial IoT mesh networks. Challenge-response protocol, replay prevention, per-packet integrity, attack simulation tooling.
-
-`Python` · MIT License
-
-[View repository →](https://github.com/krss-94/ZeroTrust-IoT-Auth)
-
-</td>
-<td width="50%" valign="top">
-
-**HIL-Servo-Control-Testbed**
-
-Hardware-in-the-loop control systems testbed using ESP32 and Arduino for real-time evaluation of On/Off, P, PI, and PID controllers across multiple plant models with fault injection.
-
-`Python` · MIT License
-
-[View repository →](https://github.com/krss-94/HIL-Servo-Control-Testbed)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Automated Street Light Monitoring & Energy Saving System**
-
-ESP32-based IoT system for adaptive street lighting, energy monitoring, fault detection, and Blynk cloud dashboards.
-
-`Python` · MIT License
-
-[View repository →](https://github.com/krss-94/-Automated-Street-Light-Monitoring-And-Energy-Saving-System)
-
-</td>
-<td width="50%" valign="top">
-
-**Smart Waste Segregation & Recycling System**
-
-AI-powered waste classification combining ESP32-CAM image classification, sensor fusion, and servo-based sorting with IoT dashboard monitoring.
-
-`Python` · MIT License
-
-[View repository →](https://github.com/krss-94/Smart-Waste-Segregation-And-Recycling-System)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Toolkit
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=krss-94&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=7d8590&rank_icon=github" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krss-94&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krss-94&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=7d8590&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MATLAB-6366F1?style=flat-square&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-6366F1?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP--NOW-6366F1?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LoRa-6366F1?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/TMS320C6748-6366F1?style=flat-square&logoColor=white"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krss-94&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 
 </div>
 
-<br/>
+---
 
-## Activity
+## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api?username=krss-94&show_icons=true&bg_color=ffffff&title_color=6366F1&icon_color=6366F1&text_color=24292f&border_color=6366F1&include_all_commits=true" width="100%"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="C, C++, Python"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
 
-</td>
-<td width="45%" valign="top">
+**Embedded & Hardware**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krss-94&layout=compact&bg_color=ffffff&title_color=6366F1&text_color=24292f&border_color=6366F1" width="100%"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino, Raspberry Pi"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</p>
 
-</td>
-</tr>
-</table>
+**Tools & Platforms**
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=krss-94&background=ffffff&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&border=6366F1" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux"/>
+</p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krss-94&theme=flat&no-bg=true&margin-w=8&column=4" />
-</div>
+**AI / ML**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TinyML-00ACC1?style=for-the-badge&logo=micropython&logoColor=white" alt="TinyML"/>
+</p>
+
+---
+
+## 🧭 Learning Journey
+
+```
+2023 ──────────────────────────────────────────────── 2026+
+
+  ✔  Embedded C & Microcontroller Fundamentals
+  ✔  ESP32 & Arduino Ecosystem
+  ✔  MATLAB — DSP & Signal Analysis
+  ✔  TinyML with TensorFlow Lite
+  ✔  Git & GitHub
+
+  🔄  Computer Architecture — pipelines, caches, ISAs
+  🔄  Linux — daily driver, learning internals gradually
+
+  📅  RTOS — FreeRTOS
+  📅  FPGA — Verilog basics
+  📅  ARM Cortex-M Architecture
+  📅  RISC-V (someday)
+```
+
+`✔ Done` &nbsp;·&nbsp; `🔄 In Progress` &nbsp;·&nbsp; `📅 Planned`
+
+---
+
+## 📜 Certifications
 
 <details>
-<summary><sub>Enable animated contribution graph</sub></summary>
-
+<summary>&nbsp;<strong>View Certifications</strong></summary>
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/krss-94/krss-94/output/snake.svg" alt="contribution snake" />
-</div>
-
-<br/>
-
-Add this as `.github/workflows/snake.yml` in `krss-94/krss-94`, then push and let it run once:
-
-```yaml
-name: snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: krss-94
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+| # | Certification | Platform | Status |
+|---|--------------|----------|--------|
+| 1 | MATLAB Onramp | MathWorks | ✅ Completed |
+| 2 | *YOUR NPTEL COURSE NAME* | NPTEL | ✅ / 🔄 |
+| 3 | *YOUR CISCO COURSE NAME* | Cisco NetAcad | ✅ / 🔄 |
+| 4 | *Add more as you earn them* | — | — |
 
 </details>
 
+---
+
+## 🎯 Research Interests
+
+<details open>
+<summary>&nbsp;<strong>What I want to work on</strong></summary>
 <br/>
 
-## Get in touch
+- **TinyML & Embedded AI** — model quantization, pruning, on-device inference
+- **Digital Signal Processing** — adaptive filters, spectral analysis, real-world sensor data
+- **Computer Architecture** — CPU microarchitecture, memory hierarchy, custom accelerators
+- **IoT Systems** — low-power design, sensor fusion, reliable MQTT pipelines
+- **Edge Computing** — making machine learning actually work on microcontrollers
+
+> 📄 Publications will be listed here once accepted.
+
+</details>
+
+---
+
+## 🏆 2026 Goals
+
+```diff
+  ☐  Publish first paper (TinyML + Red Palm Weevil)
+  ☐  Contribute to 5 open-source projects
+  ☐  Apply for GSoC 2026
+  ☐  Build a working FPGA project
+  ☐  Learn ARM Cortex-M internals
+  ☐  Reach 1,000 GitHub contributions
+  ☐  Write 3 technical blog posts
+```
+
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
 
-<a href="mailto:sivasrinivasccvv@email.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/krss-94"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
+<table>
+<tr>
+  <td align="center">
+    <a href="https://github.com/krss-94">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://x.com/YOUR_TWITTER_HANDLE">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://codeforces.com/profile/YOUR_CF_HANDLE">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="YOUR_PORTFOLIO_URL">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<!--
+  ┌──────────────────────────────────────────────────────────────┐
+  │  One-time setup: add this file to your profile repo          │
+  │  at  .github/workflows/snake.yml  then enable Actions.       │
+  │                                                              │
+  │  name: Generate Snake                                        │
+  │  on:                                                         │
+  │    schedule: [{cron: "0 0 * * *"}]                          │
+  │    workflow_dispatch:                                        │
+  │  jobs:                                                       │
+  │    generate:                                                 │
+  │      runs-on: ubuntu-latest                                  │
+  │      steps:                                                  │
+  │        - uses: Platane/snk@v3                               │
+  │          with:                                               │
+  │            github_user_name: krss-94                        │
+  │            outputs: |                                        │
+  │              dist/github-snake.svg                          │
+  │              dist/github-snake-dark.svg?palette=github-dark  │
+  │        - uses: crazy-max/ghaction-github-pages@v3           │
+  │          with:                                               │
+  │            target_branch: output                            │
+  │            build_dir: dist                                   │
+  └──────────────────────────────────────────────────────────────┘
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/krss-94/krss-94/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krss-94/krss-94/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/krss-94/krss-94/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 💬 Quote
+
+<div align="center">
+
+<br/>
+
+> **"The purpose of computing is insight, not numbers."**
+>
+> — Richard Hamming
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:0d2137,100:0d1117&height=120&section=footer"/>
+
+<sub><strong>krss-94</strong> · ECE Student · Embedded Systems · TinyML · DSP</sub>
 
 </div>
