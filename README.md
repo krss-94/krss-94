@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/banner.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/krss-94/krss-94/main/assets/banner.svg"/>
 
 <br/>
 
