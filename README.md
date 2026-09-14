@@ -3,7 +3,7 @@
 <br/>
 
 **B.E. ECE undergraduate** (2024–2028) at Sathyabama Institute of Science
-and Technology, working under Dr. G. Rajalakshmi. Focused on hardware
+and Technology. Focused on hardware
 security, FPGA design, and digital signal processing.
 
 Targeting direct-to-industry hardware roles — Samsung, Apple, AMD, Intel,
